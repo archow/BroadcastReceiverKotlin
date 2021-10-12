@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverKotlin</string>
+    <string name="launch_broadcast_text">Launch broadcast</string>
+</resources>
